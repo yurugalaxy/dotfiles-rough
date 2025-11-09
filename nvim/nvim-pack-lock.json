@@ -1,5 +1,17 @@
 {
   "plugins": {
+    "bracey.vim": {
+      "rev": "4e1a22a",
+      "src": "https://github.com/turbio/bracey.vim"
+    },
+    "indent-blankline.nvim": {
+      "rev": "005b560",
+      "src": "https://github.com/lukas-reineke/indent-blankline.nvim"
+    },
+    "live-preview.nvim": {
+      "rev": "a1bb1b3",
+      "src": "https://github.com/brianhuster/live-preview.nvim"
+    },
     "mini.icons": {
       "rev": "2847986",
       "src": "https://github.com/nvim-mini/mini.icons"
